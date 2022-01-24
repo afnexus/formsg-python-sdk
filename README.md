@@ -16,7 +16,7 @@ This library was created during the RSAF stint at MOH where we had to automate t
 Clone the repository
 
 ```sh
-git clone https://github.com/miltonsim/formsg-python-sdk-v2
+git clone https://github.com/afnexus/formsg-python-sdk
 
 # This Private Key is private and unique to your Form
 export FORMSG_SECRET_KEY=your-formsg-secret-key
