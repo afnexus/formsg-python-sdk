@@ -1,6 +1,6 @@
-# FormSG Python SDK v2
+# FormSG Python SDK v1
 
-This library was created during the RSAF stint at MOH where we had to automate the processing of FormSG forms after they were filled up. The official FormSG SDK is only written in JavaScript and Node.JS.
+This library was created during the RSAF deployement at MOH where we had to automate the processing of FormSG forms after they were filled up. The official FormSG SDK is only written in JavaScript and Node.JS.
 
 ## Table of Contents
 
