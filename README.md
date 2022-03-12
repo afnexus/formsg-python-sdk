@@ -1,6 +1,6 @@
-# FormSG Python SDK v1
+# FormSG Python SDK
 
-This library was created during the RSAF deployement at MOH where we had to automate the processing of FormSG forms after they were filled up. The official FormSG SDK is only written in JavaScript and Node.JS.
+This SDK provides convenient utilities for verifying FormSG webhooks and decrypting submissions in python.
 
 ## Table of Contents
 
